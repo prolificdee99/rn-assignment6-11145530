@@ -31,6 +31,8 @@ Remove from Cart: When a product is removed from the cart, it is filtered out fr
 
 ![Screen 2](/myshoppingapp/screenshot2.jpg)
 
+![Screen 3](/myshoppingapp/screenshot3.jpg)
+
 ### How to Run the App
 
 Clone the repository.
