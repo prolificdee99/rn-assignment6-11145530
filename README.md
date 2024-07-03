@@ -27,13 +27,9 @@ Remove from Cart: When a product is removed from the cart, it is filtered out fr
 
 ### Screenshots
 
-![Screen 1](image1.png)
+![Screen 1](/myshoppingapp/screenshot1.jpg)
 
-![Screen 2](image2.png)
-
-![Screen 3](image3.png)
-
-![Screen 4](image4.png)
+![Screen 2](/myshoppingapp/screenshot2.jpg)
 
 ### How to Run the App
 
